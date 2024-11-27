@@ -1,0 +1,335 @@
+(https://explore-education-statistics.service.gov.uk/methodology/education-provision-children-under-5-years-of-age)
+
+Methodology
+Education provision: children under 5 years of age
+Published	11 July 2024
+Search this page
+Print this page
+Related information
+Publications
+Education provision: children under 5 years of age
+Related pages
+Find statistics and data
+Education statistics: glossary
+Help and support
+Contact us
+Hide all sections
+
+1. Background
+Hide
+Overview of the data collection
+
+The data sources for this publication are the early years census (opens in a new tab), the spring school census (opens in a new tab), and the school level annual school census (opens in a new tab). All state-funded schools (including nurseries), and all private, voluntary, and independent (PVI) providers (including childminders) receiving government funding, are required to make a return. PVI providers make a return via the early years census, schools via the school census and general hospital schools via the school level annual school census. These are statutory collections, which helps ensure complete and accurate information is returned.
+
+Entitlement to government-funded early years provision
+
+All 4-year-olds have been entitled to government-funded early years provision since 1998 and in 2004 this was extended to all 3-year-olds. Since September 2010, all 3 and 4-year-olds have been entitled to 570 hours of government-funded early years provision a year. This is typically taken as 15 hours a week over 38 weeks of the year (but it is also possible to take fewer hours over more weeks). This is referred to in these statistics as the ’15-hour entitlement’ and is also known as the universal entitlement or ‘15 hours free childcare (opens in a new tab)’.
+
+From September 2013, the 15-hour entitlement was extended to 2-year-olds from families in receipt of specified benefits and 2-year-olds who were looked after by the local authority. The entitlement for 2-year-olds was further extended in September 2014 to children in low income families, children with a statement of Special Educational Needs (SEN) or an Education, Health and Care Plan (EHCP), children in receipt of Disability Living Allowance and children who are no longer looked after by a local authority as a result of an adoption order, a special guardianship order or a child arrangements order which specifies with whom the child is to live.
+
+In April 2018 the eligibility criteria for 2-year-olds to receive the 15-hour entitlement were changed to reflect the introduction of Universal Credit. 
+
+In September 2019 eligibility for the entitlement was extended to:
+
+2-year-old children of Zambrano carers;
+2-year-olds in families granted immigration leave on the basis of Article 8 of the European Convention on Human Rights (ECHR) and subject to a condition that they have no recourse to public funds; and
+2-year-olds of families supported under section 4 of the Immigration and Asylum Act 1999. 
+In September 2020 the entitlement was extended to 2-year-olds of families supported under section 17 of the Children Act 1989 who also have no recourse to public funds, and in September 2022 the entitlement was further extended to all 2-year-olds of families with no recourse to public funds.
+
+The detailed eligibility criteria for the 15-hour entitlement for two-year-olds are set out in regulations - The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014 (opens in a new tab) and The Local Authority (Duty to Secure Early Years Provision Free of Charge) Amendment Regulations 2018 (opens in a new tab).
+
+In September 2017, the government doubled the entitlement to government-funded early years provision for 3 and 4-year-olds in working families who meet the eligibility criteria to 1,140 hours annually, which is typically taken as 30 hours a week over 38 weeks of the year (but it’s also possible to take fewer hours over more weeks). This is referred to as the ’30-hour entitlement’ in these statistics and is also known as the ‘extended entitlement’ or 30 hours free childcare (opens in a new tab)’. In September 2018 the 30-hour entitlement was extended to 3 and 4-year-old foster children provided that take-up of the 30-hour entitlement was consistent with the child’s care plan. 
+
+The additional 15 hours of the 30-hour entitlement for eligible children is reported separately to the universal 15-hour entitlement due to the way the data is collected and eligibility is checked.
+
+Eligibility for the 30-hour entitlement is checked by His Majesty’s Revenue and Customs (HMRC). Parents must apply for the entitlement through the digital Childcare Service, or in some circumstances, through the childcare service Customer Interaction Centre. Eligibility for the 30-hour entitlement for foster children is checked by the local authority who has responsibility for the foster child.
+
+The 30-hour entitlement is available to 3 and 4-year-olds if their parents (or the sole parent in a lone parent household) work at least 16 hours a week at national minimum wage or living wage, but earn under £100,000 per year. This also includes self-employed parents. Foster parents must engage in paid work outside their role as a foster parent. There is no minimum income requirement for foster parents, but they cannot exceed the maximum income threshold. 
+
+In May 2020 the government announced an easement to the minimum income threshold so that children who would normally be eligible for the 30-hour entitlement but whose parents had lost income due to COVID-19 (e.g. due to being furloughed), would continue to be eligible for the entitlement. In October 2020, the government agreed to allow children of parents who are enrolled on a government coronavirus support scheme to continue to access the 30-hour entitlement. This change is set out in The Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020 No. 1515 (opens in a new tab).
+
+In July 2020 the government introduced a temporary easement to the maximum income threshold as part of the response to the coronavirus (COVID-19) outbreak. The change aimed to ensure that critical workers who exceeded the maximum income threshold set out in the 2016 Regulations due to increased income mainly attributable to earnings from work undertaken directly or indirectly as a result of the coronavirus (COVID-19) outbreak could continue to take up the 30-hour entitlement. The change was only effective for the tax year starting with 6 April 2020 and ending with 5 April 2021. This change was set out in The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 (opens in a new tab). 
+
+Parents who successfully apply for the 30-hour entitlement are given an ‘eligibility code’ for their child. They are prompted to take this code (along with their National Insurance number and child’s date of birth) to their childcare provider to claim their 30-hour entitlement.
+
+The detailed eligibility criteria for the 30-hour entitlement are set out in regulations:
+
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (opens in a new tab)
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (opens in a new tab)
+The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (opens in a new tab)
+These January 2024 statistics do not cover the expanded entitlements for children of eligible working parents which includes, from April 2024, the 15-hour entitlement for 2-year-olds and, from September 2024, the 15-hour entitlement for children aged 9 to 23 months. As was the case when the eligibility criteria changed previously, the coverage of the release will adapt to reflect policy changes for the entitlements. Therefore, it is expected that next year’s release will cover figures on the expanded entitlements. However, the Department has recently published management information on eligibility codes issued and validated in relation to the expanded entitlements. The number of codes issued and validated during 2024 will be indicative of the number of additional children captured in next year’s statistics.
+
+Further information
+
+More information about government-funded early years provision is included in the statutory guidance for local authorities (opens in a new tab).
+
+Go to top
+
+2. Accredited Official Statistics badging
+Hide
+Accredited official statistics are called National Statistics in the Statistics and Registration Service Act 2007. The United Kingdom Statistics Authority designated these statistics as National Statistics in July 2012 (opens in a new tab), in accordance with the Statistics and Registration Service Act 2007 and signifying compliance with the Code of Practice for Statistics (opens in a new tab). 
+
+Designation can be broadly interpreted to mean that the statistics:
+
+meet identified user needs;
+are well explained and readily accessible;
+are produced according to sound methods, and
+are managed impartially and objectively in the public interest.
+Once statistics have been designated as accredited official statistics it is a statutory requirement that the Code of Practice shall continue to be observed. 
+
+Since 2012, these statistics have been improved, in line with policy development, to ensure they remain relevant and best meet the needs of users of the statistics. The main changes are outlined below:
+
+Adding data in the 2014 release, when the 15-hour entitlement was extended to two-year-olds from families in receipt of specified benefits, from September 2013. The entitlement criteria have been extended/revised since and the statistics have been updated to incorporate these changes. This includes presenting figures on ‘basis for funding’ to help users understand the changes.
+Adding data in the 2016 release, following the introduction of the early years pupil premium (EYPP) in April 2015, for disadvantaged 3 and 4-year-olds. The eligibility criteria for EYPP changed in April 2018 and the statistics have incorporated these changes.
+Adding data in the 2018 release, when the government doubled from September 2017 the entitlement to government-funded early years provision for 3 and 4-year-olds in working families who met the eligibility criteria to 1,140 hours annually. 
+Adding an additional breakdown by year group in the 2022 release to one of the underlying data files.
+Adding further additional breakdowns by year group to more underlying data files, as well as data on children in reception eligible for free school meals to the 2023 release. In addition, figures on private, voluntary and independent providers delivering any amount of government funded early years provision were published for the first time. Specifically, those providers where at least one child was registered for all their entitlement or any proportion of their entitlement if it was split across multiple providers. Whereas, previously, figures were only published based on providers where at least one child was registered for all their entitlement or the majority of their entitlement if it was split across multiple providers. 
+The Department has a set of statistical policies (opens in a new tab) in line with the Code of Practice for Statistics.
+
+Go to top
+
+3. Data collection and cleaning
+Hide
+Data is loaded into the Department for Education’s (DfE’s) bespoke data collection system COLLECT (opens in a new tab) (Collections On-Line for Learning, Education, Children and Teachers). 
+COLLECT has built-in validation rules which flag up data which is potentially in error. This allows local authorities to identify errors and amend the data before they submit it to DfE. Validation rules can either be errors (data is invalid) or queries (data quality is questionable but could be accurate in certain circumstances). 
+Local authorities are encouraged to amend all errors and double-check data where queries are flagged. Notes can be added to their return if there is a genuine reason for unusual data.
+Guidance notes and specifications (including validation rules) for the early years census can be found here (opens in a new tab) and the school census here. (opens in a new tab)
+Go to top
+
+4. Data processing
+Hide
+Confidentiality 
+
+The Code of Practice for Statistics requires that reasonable steps should be taken to ensure that all published or disseminated statistics protect confidentiality. The publication follows the DfE policy statement on confidentiality (opens in a new tab). 
+
+In data file 3, regional numbers have been rounded to the nearest 10 and suppression (including secondary suppression) has been applied where necessary. 
+
+Symbols  
+
+The following symbols are used in the underlying data files as follows:
+
+     c       to protect confidentiality - secondary suppression may also be applied to figures to protect confidentiality
+
+     u      low reliability
+
+     x      data not available
+
+     z      data not applicable  
+
+     low  used when a result that is not 0 (zero) would appear as 0 (zero) due to rounding
+
+Where any number is shown as zero, the original figure submitted was zero.
+
+Rounding
+
+In the headline statistics file, numbers have been rounded to the nearest 100 and percentages to the nearest percentage. In data file 3, regional numbers have been rounded to the nearest 10; therefore regional numbers may not sum to national totals. In all data files (apart from the headline statistics file), percentages have been rounded to one decimal place; therefore, percentages may not sum to 100.
+
+Calculated data items 
+
+The statistics publication reports on:
+
+Children registered for government-funded early years provision
+This is a count of children registered for government-funded early years provision. Where children were registered for government-funded early years provision at more than one private, voluntary, or independent (PVI) provider, they have been counted only once. The PVI provider where the child was registered for the majority of their funded hours is the provider reported in the main provider figures (i.e. headline figures data file and data files 2 and 9). 
+
+A child splitting their entitlement between a state-funded school or nursery and a PVI provider may be counted more than once. In 2024, this was an overcount of approximately 1%, causing national take-up rates for the 15-hour entitlements to be overestimated by less than 1 percentage point.
+
+For PVI providers (including childminders), counts are taken from the early years census. Counts for state-funded schools (including nurseries) are taken from the school census and counts for general hospital schools are taken from the school level annual school census.
+
+Children (mainly 4-year-olds) in a state-funded reception class are considered to be registered for the 15-hour entitlement (391,200 children or a third of all 3 and 4-year-olds registered for the 15-hour entitlement). 
+
+Main providers (headline figures data file and data files 2 and 9)
+When a child splits their entitlement over more than one provider, the provider where they spend the majority of their time is referred to as their main provider. As childminders often provide wrap-around care, the count of childminders is adversely affected by this methodology. In 2024, of the 400 or 1% of PVI providers delivering the 15-hour entitlement which were removed, 95% were childminders. Similarly, of the 500 or 2% of PVI providers delivering the 30-hour entitlement which were removed, 87% were childminders.
+
+All private, voluntary and independent (PVI) providers (data file 7)
+Figures in data file 7 are based on all private, voluntary and independent providers (including childminders) delivering funded entitlements where at least one child was registered for all their entitlement or any proportion of their entitlement if it was split across multiple providers.
+
+Provider type
+This is a count of providers delivering government-funded early years provision by type of provider, and also the number of children registered for entitlements at those providers. Special schools include maintained and non-maintained special schools and general hospital schools.
+
+The number of children registered for some government-funded early years provision is calculated as the headcount of children registered for government-funded early years provision. Where they are receiving government-funded early years provision at more than one PVI provider, they have only been counted once at the provider where they take the majority of their funded hours. 
+
+In the 2024 early years census there were 6,243 children (1% of those registered at PVI providers) who split their 15-hour entitlement across more than one PVI provider and 5,766 children (2% of those registered at PVI providers) who split their 30-hour entitlement across more than one PVI provider.
+
+Early years pupil premium 
+Early years pupil premium (EYPP) was introduced for disadvantaged 3 and 4-year-olds in April 2015. Children will be eligible for EYPP if they are receiving the 15-hour entitlement and meet the eligibility criteria of their family being in receipt of specified benefits, or the child is looked after by a local authority or no longer looked after by the local authority as a result of an adoption order, special guardianship order or a child arrangement order which specifies with whom the child should live. In April 2018 eligibility for EYPP changed as a result of the introduction of Universal Credit. More details on the eligibility criteria can be found in the Early years entitlements: local authority funding of providers - Operational guide 2023 to 2024. (opens in a new tab)
+
+When children join a state-funded reception class, they cease to be eligible for EYPP, so these statistics also identify children who are in reception and eligible for free school meals.
+
+Free school meal eligibility 
+Children in state-funded schools in England are entitled to receive free school meals if a parent or carer is in receipt of specified benefits or has no recourse to public funds. More details on the eligibility criteria can be found in the free school meals guidance for schools and local authorities (opens in a new tab).
+
+In addition to children in reception, children in state-funded nursery provision are also eligible if they meet the criteria and attend for full days. These relatively small numbers are not included in this publication as they are likely to be registered for the 15-hour entitlement for 2-year-olds or be in receipt of early years pupil premium.
+
+Ethnicity 
+Ethnicity was collected on a mandatory basis for the first time in 2017 for all children in PVI settings and under 5s in schools. It records the ethnicity as stated by the parent/guardian. 
+
+The establishment must not ascribe any ethnicity to the child. The information must come from the parent/guardian. Where the ethnicity had not yet been collected, ‘NOBT’ (information not yet obtained) was recorded. If a parent/guardian refused to provide ethnicity, ‘REFU’ (refused) was recorded. These categories combined are shown as ‘unknown’ within the underlying data files.
+
+Special educational needs (SEN) provision
+Children with SEN are currently classified as follows:
+
+SEN support
+
+Extra or different help is given from that provided as part of the school’s usual curriculum. The class teacher and special educational needs coordinator (SENCO) may receive advice or support from outside specialists. The pupil does not have an education, health and care plan. SEN support replaced the former School Action and School Action Plus categories from 2015.
+
+Education, health and care (EHC) plans 
+
+A pupil has an EHC plan when a formal assessment has been made. A document is in place that sets out the child’s need and the extra help they should receive. Prior to September 2014, a statement of SEN was used. The period for local authorities to transfer children and young people with statements of SEN to EHC plans started in September 2014 and ended in 2018. Following the introduction of EHC plans in September 2014, statements of SEN and EHC plans were grouped together within the data.
+
+The type of SEN provision a child receives is collected on both the school and early years census.
+
+Ofsted inspection judgements
+To report against Ofsted inspection judgements, we match the early years census data and the school census data to Ofsted inspection judgements.
+
+Ofsted provided us with the latest outcomes of early years inspections up to 31 January 2024. For private, voluntary and independent (PVI) providers (including childminders), this data was matched with early years census data. Common variables between the early years census and Ofsted’s outcomes of early years inspections dataset are LA identifier, provider name, and Ofsted unique reference number (URN). There are inconsistencies between data on provider name on the early years census and Ofsted’s outcomes dataset, which made it difficult to use this variable for matching purposes. Matching was carried out using LA number and Ofsted early years URN only. 
+
+Where a match could not be found between the early years census and Ofsted’s outcomes of early years inspections dataset, the relevant cases were then matched to the outcomes of school inspections dataset, again using the Ofsted URN. The outcomes of school inspections dataset was used because some early years providers return a school’s URN rather than an early years URN because the early years provision is run under the auspices of the governing body of the school and therefore fall under the school’s registration. In such cases, we used the early years provision inspection judgement. If no early years provision inspection rating was reported, then we used the school’s overall effectiveness judgement.
+
+Independent schools, as reported in the early years census, are inspected by either Ofsted, the Independent Schools Inspectorate, or the School Inspection Service; therefore, some of these providers were listed under the ‘No match’ category when a school had not been inspected by Ofsted. Where the school was inspected by Ofsted and a match was found, we used the relevant inspection judgement for these schools.
+
+For state-funded schools (including nurseries), school census data was matched to Ofsted school inspection data using a combination of the LA number and the establishment number. Where a child was in reception, the school’s overall effectiveness judgement was used, and where a child was in nursery the school’s early years provision judgement (if applicable) was used. Academy converters which were yet to be inspected under their new status were included under the ‘No match’ category. The school changes its URN when it converts to an academy.
+
+Inspections ratings from private, voluntary, and independent providers were combined with those from state-funded schools to produce the tables.
+
+The percentages of the total number of 2, or 3 and 4-year-olds receiving government-funded early years provision at providers judged outstanding, good, requires improvement, or inadequate, are calculated based on children at providers who matched and an inspection judgement was reported (and therefore excludes children at providers without an inspection judgement). Similarly, percentages of providers with outstanding, good, requires improvement, or inadequate judgements are calculated based on providers with a valid matched inspection rating. 
+
+The percentage of providers of government-funded early years provision with no matched Ofsted inspection rating remained steady between 2023 and 2024 at 10%.
+
+Funded hours per week
+This is the percentage of registrations for government funded early years provision broken down by the number of hours taken, where the hours have been grouped together into bands. Registrations at general hospital schools have been excluded from these figures as their data is collected through the aggregate school level annual school census and individual hours are not reported. 
+
+For those providers who provide government-funded early years provision flexibly over more than 38 weeks, the funded hours during census week may not accurately reflect the full extent of the take-up of the entitlement, e.g., a child funded for 10 hours during census week may in fact be taking up the fully funded place over more than 38 weeks.
+
+Staff qualifications
+Local authorities returned the total number of staff who work with children under 5 at PVI providers delivering government-funded early years provision to at least one child at the time of the census. They also returned the number of staff with the following qualifications, recording by the highest qualification held by each member of staff:
+
+full and relevant early years Level 2 qualification
+full and relevant early years Level 3 qualification and not in a managerial role
+full and relevant early years Level 3 qualification and in a managerial role
+early years professional status (EYPS)
+early years teacher status (EYTS)
+qualified teacher status (QTS)
+The number of staff with each of the qualifications (grouped together where appropriate) is reported in data file 8 and the number of providers (and numbers of children registered at those providers) with at least one accredited graduate staff member (EYPS, EYTS and QTS) is reported in data file 9. 
+
+Go to top
+
+5. Data quality
+Hide
+Coverage of the statistics
+Only those providers with children registered for some government-funded early years provision are required to make an early years census return. For example, a provider with no funded 2, 3, or 4-year-olds would not appear in the early years census. For this reason, this publication does not provide a count of all children aged 2, 3, or 4 in private, voluntary, and independent providers. There is no data source that would provide this information.
+
+2-year-old eligible population estimates
+DfE receives a list of families with 2-year-olds who meet the eligibility criteria for the 15-hour entitlement on the basis of receiving certain income-related benefits, in order to support targeting of eligible families. The lists are provided by the Department for Work and Pensions (DWP), based on matching of benefit claim data held by DWP with child benefit records held by HMRC or derived from the Universal Credit Full Service claim process. Lists are provided to DfE at 7 points throughout the year and cover those eligible in the following 3 terms. 
+
+For this publication, the list provided in November 2023 is used to provide the eligible population for January 2024. This list contains children in families who meet the income-related benefit eligibility criteria in November and will be of eligible age in the term starting in the following January. 
+
+The families on the list are potentially eligible for the entitlement through receipt of the following:
+
+Income Support;
+Income Based Jobseeker’s Allowance;
+Income Related Employment and Support Allowance;
+The guaranteed element of State Pension Credit;
+Child Tax Credit and/or Working Tax Credit and have an annual income no more than £16,190 as assessed by His Majesty's Revenue and Customs;
+the Working Tax Credit four-week run-on (the payment someone receives for a further four weeks after they stop qualifying for Working Tax Credit); 
+the child attracts the Disability Living Allowance; or,
+Universal Credit – a parent will appear if they are entitled to Universal Credit and have an annual net earned income equivalent to and not exceeding £15,400, assessed on up to three of the parent’s most recent Universal Credit assessment periods.
+The list does not include anyone eligible through the following criteria:
+
+Looked after by the local authority
+Have left the care of the local authority
+Have a statement of Special Educational Need or an Education, Health and Care Plan
+Children of families with no recourse to public funds
+In 2013 when the policy was launched an assessment was made (opens in a new tab) which concluded that around 8,000 2-year-olds were estimated to be eligible under the non-economic criteria (i.e. looked after children, children who had left care, children with special educational needs, and children whose parents were asylum seekers). 
+
+There was a change in how the lists were produced in April 2019 (for the term starting September 2019). Before April 2019, children in families receiving the Universal Credit Full Service were not included on the lists. From April 2019, children in families receiving the Universal Credit Full Service have been included on the eligible population lists for this publication.
+
+ONS population estimates
+ONS population estimates are used as the denominator for the take-up rates of the 15-hour entitlement for 3 and 4-year-olds. The population estimates are derived from mid-year estimates and projections produced by the Office for National Statistics (ONS). Mid-year figures are pro-rated evenly by single year of age and the total adjusted to match the total population for that age from the appropriate DfE pupil projections.
+
+These estimates only include long-term migrants. That is, a person who changes their permanent residence for more than a year. The early years census and school census includes all children, even if they are defined as being short-term migrants. Therefore, take-up percentages could be overestimated as a result.
+
+Population estimates at lower geographic levels, such as local authority, are subject to a greater degree of error. In some cases, local authority take-up rates can exceed 100%. Therefore, take-up rates at local authority level should be treated with more caution than national take-up rates. The sources used in the calculation of take-up rates for 3 and 4-year-olds are consistent over time, allowing users to see any change in local authority level take-up rates over time. 
+
+The population estimates used in this publication do not yet take updated figures based on Census 2021 data into account, as a full and consistent timeseries based on them was not available at the time of publication. As a consequence, disparities between previously published estimates and new figures based on Census 2021 (opens in a new tab) (opens in a new tab) population data mean that previous population estimates for 3 and 4-year-olds from 2013 onwards are likely overestimates to some extent, and therefore the derived take-up rates are likely underestimates. This is estimated to be in the region of up to 5 percentage points depending on the specific year, and therefore, the 3 and 4-year-old take-up rates need to be treated with caution.
+
+Population estimates and take-up rates back to 2013 will be revised following ONS publication of a full and consistent timeseries based on Census 2021 population data.
+
+Estimate of those eligible for the 30-hour entitlement
+The estimate of children eligible for the 30-hour entitlement is estimated from various sources including the Family Resources Survey (FRS), Survey of Personal Incomes (SPI), Households Below Average Income (HBAI) data, the Schools Census, the Early Years Census, and population estimates derived from ONS estimates and projections. Due to population data used for 2024 likely being an overestimate and the reliability of the survey-based data, the estimate of children eligible for the 30-hour entitlement should be treated with caution.
+
+First, the school census data was used to identify the number of 3 and 4-year-olds attending reception classes. Funding for the 30-hour entitlement stops when children start in reception class (or reach compulsory school age, if later), so these figures were subtracted from the population projections. 
+
+The most recent three years of FRS data were then used to identify a national estimate of the proportion of 3 and 4-year-olds with parents meeting the lower earnings eligibility criteria of 16 times the national minimum wage or national living wage per week. In 2024, this estimate was 52.8%.
+
+The SPI and other relevant data and assumptions were then used to estimate the proportion of parents of 3 and 4-year-olds who earn above £100,000 per year. In 2024, this estimate was 3.8%. This was then subtracted from 100% to estimate the proportion of parents of 3 and 4-year-olds who do not earn above £100,000 per year, in this case 96.2%.
+
+These two estimates were then combined to estimate the percentage of all 3 and 4-year-olds whose parents meet the earnings eligibility criteria. In 2024, this was 50.8% (52.8% of 96.2%). This result was then applied to the ONS population figures (having removed children who attend reception classes as described above) to estimate the number of eligible children nationally – 427,000 in 2024.
+
+Due to data limitations, it is not possible to calculate regional/local authority level estimates, they are therefore not included in this publication.
+
+Data cleaning exercise of provider types
+Since 2019, data cleaning exercises with local authorities each year have improved data quality. Provider types have become more accurately recorded over the years and caution should therefore be taken when comparing changes in provider types between years, particularly for childminders and state-funded governor run provision, which have been reclassified from other in some instances.
+
+COVID-19
+Each year, providers and schools are asked to record the ’normal situation’ during the census collection period. Children who are temporarily absent (e.g., sick or on holiday) are included, and providers closed temporarily are asked to record according to the usual situation which would have applied. 
+
+In summary, where a child was reasonably expected to attend early years provision, and that provision was made available to them by the provider, their expected hours were recorded on the relevant census. This meant children who, were it not for the impact of COVID-19 on either their own personal circumstances or on the operation of their early years setting, would have been attending early years provision. This included children who had previously attended the provision and children who were expected to start attending the provision in January of the relevant year.
+
+Where the provider temporarily closed due to circumstances such as a high level of staff absences due to illness or self-isolation, their expected levels of provision for census week were returned. Where the provider chose not to offer the entitlements – i.e., the setting had chosen to close, or only offer a limited provision to children of key workers - then they were advised not to make a return (or recorded zero funded hours in the case of the school census) for a child who was not being offered a place.
+
+However, despite the above, users need to be aware that the data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. 
+
+Data quality issues for specific local authorities and years
+The 2020 estimate (taken in November 2019) of eligible 2-year-olds in Suffolk was approximately 600 fewer than the correct figure. After investigation, this was shown to be due to an error with the DWP lists locally where postcodes had not correctly matched. Therefore, the take-up rate amongst eligible 2-year-olds in Suffolk is not comparable for 2020 and is therefore suppressed.
+
+Once the 2021 early years census closed, Thurrock local authority made DfE aware that the data they submitted was incorrect and was an undercount of the true numbers. 2-year-olds in PVIs had been under-reported by approximately a third, and 3 and 4-year-olds in PVIs had been under-reported by approximately a fifth. This does not impact national take-up rates. Thurrock’s data is therefore suppressed due to the reported inaccuracy, but national and regional totals include the original submitted data.
+
+Once the 2022 early years census closed, Calderdale local authority made DfE aware that some of the data they submitted was incorrect and an undercount of the true numbers. 2-year-olds in PVIs had been under-reported by a fifth, and 3 and 4-year-olds in PVIs had been under-reported by a twentieth. The numbers of 3 and 4-year-olds registered for the 30-hour entitlement and receiving early years pupil premium were also under-reported, by a twelfth and a sixth respectively.
+
+Leicestershire local authority also made DfE aware that some of the data they submitted was incorrect. The number of 2-year-olds and 3 and 4-year-olds registered for the 15-hour entitlement in PVIs, as well as the number of 3 and 4-year-olds registered for the 30-hour entitlement in PVIs, were under-reported by one-hundredth. 
+
+The Calderdale and Leicestershire data was not suppressed in the 2022 publication, as the under-reporting was not at a comparable level to that in Thurrock in 2021. However, care should still be taken when comparing figures for these local authorities with previous years.
+
+Once the 2023 early years census closed, DfE identified that some data submitted by Kingston upon Hull incorrectly identified the basis for funding for some children in receipt of early years pupil premium (EYPP). The number of children who were in receipt of EYPP in Kingston upon Hull due to economic reasons or being looked after or adopted from care was therefore suppressed.
+
+Go to top
+
+6. Related Publications
+Hide
+Title	Education provision: children under 5 years of age	Childcare and early years provider survey	Childcare providers and inspections	Schools, pupils and their characteristics	Childcare and early years survey of parents	Early years foundation stage profile
+Producer	Department for Education	Department for Education	
+Ofsted
+
+Department for Education	Department for Education	Department for Education
+Status	Accredited official statistics	Official statistics	Official statistics	Accredited official statistics	Official statistics	Accredited official statistics
+Frequency	Annual	Annual	Bi-annual	Annual	Annual	Annual
+Reports on	Children, childcare providers (including schools and reception year in schools) and staff	Childcare providers (including schools)	Ofsted-registered childcare providers 	Children, schools	Children, parents, families	Children
+Data type	Administrative	Survey	Administrative	Administrative	Survey	Administrative
+Age range	2-4	0-4	0-7	0-19	0-14	Children at end of early years foundation stage (generally 5)
+Age type	As at previous 31st December	Actual age	n/a	As at previous 31st August	Actual age	n/a
+Country	England	England	England	England	England	England
+Regional breakdowns	Yes	Yes	Yes	Yes	No	Yes
+LA breakdowns	Yes	Some	Yes	Yes	No	Yes
+When to use	Children registered for and providers/staff delivering government-funded early education and childcare	Early years and childcare workforce, staff-child ratios, and provider finances and fees	Ofsted inspections of childcare providers by provider characteristics	Characteristics of schools and pupils, including funded/non-funded providers	Use, receipt, and perceptions of childcare among parents	Assessment of child development for children in government-funded early education and childcare (mostly children in reception)
+Since the introduction of the 30-hour entitlement policy, up until summer 2019, the Department for Education published regular experimental statistics to monitor the policy, consisting of monthly management information (opens in a new tab) on the number of eligibility codes issued and validated, and termly headcounts (opens in a new tab) of the number of children in a 30-hour place. Both of these are no longer published and were last updated in 2019.
+
+Go to top
+Help and support
+Contact us
+If you have a specific enquiry about Education provision: children under 5 years of age statistics and data:
+
+Early Years Statistics Team
+Email: earlyyears.statistics@education.gov.uk
+Contact name: Louis Erritt
+Press office
+If you have a media enquiry:
+
+Telephone: 020 7783 8300
+
+Public enquiries
+If you have a general enquiry about the Department for Education (DfE) or education:
+
+Telephone: 037 0000 2288
+
+Opening times:
+Monday to Friday from 9.30am to 5pm (excluding bank holidays)

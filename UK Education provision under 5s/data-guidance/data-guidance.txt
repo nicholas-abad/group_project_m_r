@@ -1,0 +1,328 @@
+Education provision: children under 5 years of age
+2024 Reporting year
+
+Description
+
+This document describes the data included in the January 2024 statistics release ‘ Education provision: children under 5 years of age (https://explore-education-statistics.service.gov.uk/find-statistics/education-provision-children-under-5/2024)'.
+
+This data is released under the terms of the Open Government Licence (opens in a new tab) (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and is intended to meet at least 3 stars for Open Data (opens in a new tab) (https://www.gov.uk/government/publications/2010-to-2015-government-policy-government-transparency-and-accountability/2010-to-2015-government-policy-government-transparency-and-accountability#appendix-3-releasing-data-in-open-and-anonymised-formats).
+
+The methodology page (https://explore-education-statistics.service.gov.uk/methodology/education-provision-children-under-5-years-of-age-methodology) should be referenced alongside this data.
+
+Coverage
+
+These annual statistics report on government-funded early education and childcare (early years provision) entitlements for children aged 2 to 4 years in England in January (specifically the third week in January each year).
+
+Data is collected from local authorities covering state-funded schools (including nurseries), via the spring  school census (https://www.gov.uk/guidance/complete-the-school-census) and from private, voluntary and independent (PVI) providers (including childminders) via the  early years census (https://www.gov.uk/guidance/complete-the-early-years-census). In addition, general hospital schools data is collected via the  school-level annual school census (https://www.gov.uk/guidance/general-hospital-school-census-guide-to-submitting-data).
+
+The underlying data files include national, regional, and local authority level information for the years 2018 to 2024 (and back to 2011 in the headline statistics file).
+
+Symbols
+
+The following symbols are used in the underlying data files as follows:
+
+     c           to protect confidentiality - secondary suppression may also be applied to figures to protect confidentiality
+
+     u           low reliability
+
+     z           data not applicable
+
+     low      used when a result that is not 0 (zero) would appear as 0 (zero) due to rounding
+
+Where any number is shown as zero, the original figure submitted was zero.
+
+Rounding
+
+In the headline statistics file, numbers have been rounded to the nearest 100 and percentages to the nearest percentage. In data file 3, regional numbers have been rounded to the nearest 10; therefore regional numbers may not sum to national totals. In all data files (apart from the headline statistics file), percentages have been rounded to one decimal place; therefore, percentages may not sum to 100.
+
+Data files
+
+Headline figures
+
+Filename: headline_figures_early_years_provision_2011_2024.csv
+Geographic levels: National
+Time period: 2011 to 2024
+Content summary: Number and percentage of eligible children registered for and number of providers delivering government-funded early years provision, by age and entitlement type. National timeseries back to 2015 for the 15-hour entitlement for 2-year-olds, 2011 for the 15-hour entitlement for 3 and 4-year-olds, and 2018 for the 30-hour entitlement for 3 and 4-year-olds.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                 |  Variable description
+----------------------------  |  ----------------------------------------------------
+age                           |  Age and entitlement type
+number_children               |  Number of registered children
+number_eligible_children      |  Estimate of eligible children
+number_providers              |  Number of providers
+percentage_eligible_children  |  Estimated percentage of eligible children registered
+
+Footnotes:
+
+1. The estimated number of eligible 2-year-olds is derived from data supplied by the Department for Work and Pensions each November. It represents the best data available on the number of children meeting the benefit and tax credit eligibility criteria.
+2. Population estimates for 3 and 4-year-olds from 2013 onwards are likely overestimates to some extent, and therefore the derived take-up rates are likely underestimates. Therefore the 3 and 4-year-old take-up rates need to be treated with caution. The population estimates and take-up rates back to 2013 will be revised following ONS publication of a full and consistent timeseries based on Census 2021 population data. See methodology for more information.
+3. Children who split their entitlement across more than one private, voluntary or independent provider are only counted at the provider where they spend the majority of their time.
+4. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+
+
+1 Children registered and take-up rates
+
+Filename: 1_early_years_provision_children_registered_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: Number and percentage of eligible children registered for government-funded early years provision by age.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                 |  Variable description
+----------------------------  |  ----------------------------------------------------
+age                           |  Age
+number_children               |  Number of registered children
+number_eligible_children      |  Estimate of eligible children
+percentage_eligible_children  |  Estimated percentage of eligible children registered
+
+Footnotes:
+
+1. The estimated number of eligible 2-year-olds is derived from data supplied by the Department for Work and Pensions each November. It represents the best data available on the number of children meeting the benefit and tax credit eligibility criteria.
+2. Population estimates for 3 and 4-year-olds from 2013 onwards are likely overestimates to some extent, and therefore the derived take-up rates are likely underestimates. Therefore the 3 and 4-year-old take-up rates need to be treated with caution. The population estimates and take-up rates back to 2013 will be revised following ONS publication of a full and consistent timeseries based on Census 2021 population data. See methodology for more information.
+3. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+4. In some years, data for a small number of local authorities is of low reliability due to error. See methodology for more details.
+
+
+2 Children registered and providers by provider type
+
+Filename: 2_early_years_provision_provider_type_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: Number of children registered for and number of providers delivering government-funded early years provision by age, year group, and provider type.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name     |  Variable description
+----------------  |  -------------------------------
+age               |  Age
+number_children   |  Number of registered children
+number_providers  |  Number of providers
+provider_type     |  Type of provider
+year_group        |  Entitlement type and year group
+
+Footnotes:
+
+1. Children who split their entitlement across more than one private, voluntary or independent provider are only counted at the provider where they spend the majority of their time.
+2. Children attending a general hospital school and a small number of children attending a special school do not follow the national curriculum. These children are included in totals but not breakdowns by year group.
+3. Where children under 4 years of age are recorded as in reception, this may be because they attend a school with a two-year reception class or other mixed-year class, because the local authority has agreed it would be beneficial to start reception year early, or for another reason.
+4. A very small number of children under 5 years of age are registered in a higher year group than reception. This may be because the local authority has agreed it would be beneficial to the child, or for another reason. These children have been included in the reception category.
+5. Some state-funded nursery schools have a reception class and/or some children may continue to attend their state-funded nursery school in reception year until they are ready for primary school.
+6. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+7. In some years, data for a small number of local authorities is of low reliability due to error. See methodology for more details.
+
+
+3 Children registered by disadvantaged status
+
+Filename: 3_early_years_provision_disadvantaged_children_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: Number of disadvantaged children registered for government-funded early years provision, by age, disadvantage type and basis for funding.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ---------------------------------
+age                  |  Age
+basis_for_funding    |  Basis for funding
+disadvantage_type    |  Disadvantage type
+number_children      |  Number of registered children
+percentage_children  |  Percentage of registered children
+
+Footnotes:
+
+1. When children join a state-funded reception class, they cease to be eligible for early years pupil premium, so these statistics also identify children who are in reception and eligible for free school meals. Children who are not in reception but do attend state-funded nursery provision full-time may also be eligible for free school meals. However, these relatively small numbers are not included in this table as they are likely to be registered for the 15-hour entitlement for 2-year-olds or be in receipt of early years pupil premium.
+2. No data on early years pupil premium or free school meals is available for children registered at general hospital schools.
+3. Economic eligibility criteria are not identical across the 15-hour entitlement for disadvantaged 2-year-olds, early years pupil premium (EYPP), and free school meals (FSM). The income threshold for Universal Credit claimants is higher for the 2-year-old entitlement than it is for EYPP and FSM, and children from families with no recourse to public funds are eligible for the 2-year-old entitlement and FSM but not EYPP.
+4. A very small number of children under 5 years of age are registered in a higher year group than reception. This may be because the local authority has agreed it would be beneficial to the child, or for another reason. These children have been included in the reception category.
+5. Children can be counted under more than one basis for funding if more than one applies.
+6. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+7. In some years, data for a small number of local authorities is of low reliability due to error. See methodology for more details.
+
+
+4 Children registered by ethnicity and SEN provision
+
+Filename: 4_early_years_provision_ethnicity_sen_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: Number of children registered for government-funded early years provision by age, year group, ethnicity and SEN provision.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  -------------------------------------------------------------------------------------------------------------
+age                  |  Age
+ethnicity_major      |  Major ethnic group - Cross-tabulations with SEN available at national level only
+number_children      |  Number of registered children
+percentage_children  |  Percentage of registered children
+sen_provision        |  Special educational needs (SEN) provision - Cross-tabulations with ethnicity available at national level only
+year_group           |  Entitlement type and year group
+
+Footnotes:
+
+1. Children attending a general hospital school and a small number of children attending a special school do not follow the national curriculum. These children are included in totals but not breakdowns by year group.
+2. A very small number of children under 5 years of age are registered in a higher year group than reception. This may be because the local authority has agreed it would be beneficial to the child, or for another reason. These children have been included in the reception category.
+3. The 'Unknown' category describes cases where the child's ethnicity was refused or not obtained. These children are included in the 'Total' numbers.
+4. No data on ethnicity or SEN provision is available for children registered at general hospital schools.
+5. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+6. In some years, data for a small number of local authorities is of low reliability due to error. See methodology for more details.
+
+
+5 Children registered by Ofsted judgement at provider
+
+Filename: 5_early_years_provision_ofsted_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: Number of children registered for government-funded early years provision by age, year group and provider's Ofsted inspection judgement.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ---------------------------------
+age                  |  Age
+number_children      |  Number of registered children
+ofsted_judgement     |  Ofsted inspection judgement
+percentage_children  |  Percentage of registered children
+year_group           |  Entitlement type and year group
+
+Footnotes:
+
+1. Children who split their entitlement across more than one private, voluntary or independent provider are only counted at the provider where they spend the majority of their time.
+2. Percentages are based upon those providers with a matched and identified Ofsted judgement (i.e. excludes 'No match found'). The four available judgements sum to 100% (may not be exact due to rounding).
+3. Children attending a general hospital school and a small number of children attending a special school do not follow the national curriculum. These children are included in totals but not breakdowns by year group.
+4. Where children under 4 years of age are recorded as in reception, this may be because they attend a school with a two-year reception class or other mixed-year class, because the local authority has agreed it would be beneficial to start reception year early, or for another reason.
+5. A very small number of children under 5 years of age are registered in a higher year group than reception. This may be because the local authority has agreed it would be beneficial to the child, or for another reason. These children have been included in the reception category.
+6. 'No match found' includes independent schools who are not required to register with Ofsted and academy converters who have not yet been inspected under their new status.
+7. Statutory guidance advises local authorities not to fund provision judged requires improvement or inadequate for eligible 2-year-olds unless sufficient, accessible provision judged good or outstanding is not available.
+8. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+9. In some years, data for a small number of local authorities is of low reliability due to error. See methodology for more details.
+
+
+6 Registrations by hours per week
+
+Filename: 6_early_years_provision_hours_per_week_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: The proportion of registrations for government-funded early years provision by age, provider type, and number of funded hours per week. Unlike for the other data files, a child who has multiple registrations across different providers is counted for each separate registration, as opposed to only at the provider where they spend the majority of their time.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name             |  Variable description
+------------------------  |  -------------------------------
+age                       |  Age and entitlement type
+hours_per_week            |  Number of funded hours per week
+percentage_registrations  |  Percentage of registrations
+provider_type             |  Provider type
+
+Footnotes:
+
+1. A very small number of children under 5 years of age are registered in a higher year group than reception. This may be because the local authority has agreed it would be beneficial to the child, or for another reason. These children have been included in the reception category.
+2. This table reflects the percentage of registrations for funded entitlements rather than the percentage of individual children. Therefore, where a child is splitting their entitlement across multiple providers, each separate registration has been counted.
+3. Where a child takes their annual 15-hour entitlement flexibly over more than 38 weeks, the funded hours recorded in census week may underestimate the actual proportion of the entitlement taken annually, e.g. a child funded for 12 hours during census week may in fact be taking up the full 15-hour entitlement over more than 38 weeks.
+4. The percentages across all banded hours sum to 100%, although this may not be exact due to rounding.
+5. Registrations for the 30-hour entitlement by hours per week refer to the additional 15 hours on top of the 15-hour entitlement.
+6. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+
+
+7 All PVI providers
+
+Filename: 7_early_years_provision_pvis_2018_2024.csv
+Geographic levels: National
+Time period: 2018 to 2024
+Content summary: Number of private, voluntary and independent providers delivering any amount of government-funded early years provision by age and provider type.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name      |  Variable description
+-----------------  |  ------------------------
+age                |  Entitlement type and age
+number_providers   |  Number of providers
+pvi_provider_type  |  Type of PVI provider
+
+Footnotes:
+
+1. Since 2019, data cleaning exercises with local authorities each year have improved data quality. Provider types have become more accurately recorded over the years and caution should therefore be taken when comparing changes in provider types between years, particularly for childminders and state-funded governor run provision, which has been reclassified from other in some instances.
+2. State-funded governor-run provision is included in the private, voluntary and independent providers category because data for these providers is returned on the early years census.
+3. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+4. Local authority day nurseries are included in the private, voluntary and independent providers category because data for these providers is returned on the early years census.
+
+
+8 PVI staff by highest qualification
+
+Filename: 8_early_years_provision_staff_qualifications_pvis_2018_2024.csv
+Geographic levels: National
+Time period: 2018 to 2024
+Content summary: Number of staff delivering government-funded early years provision at private, voluntary, and independent providers, by highest qualification and provider type.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  ------------------------------
+highest_qualification  |  Highest level of qualification
+number_staff           |  Number of staff
+percentage_staff       |  Percentage of staff
+pvi_provider_type      |  Type of PVI provider
+
+Footnotes:
+
+1. Since 2019, data cleaning exercises with local authorities each year have improved data quality. Provider types have become more accurately recorded over the years and caution should therefore be taken when comparing changes in provider types between years, particularly for childminders and state-funded governor run provision, which has been reclassified from other in some instances.
+2. 'Total' includes staff without a level 2 qualification, level 3 qualification or accredited graduate status.
+3. These percentages are the proportion of all staff at that provider type who have a specific qualification, not the proportion of all staff with a specific qualification. Therefore, provider types will not sum to 100%.
+4. State-funded governor-run provision is included in the private, voluntary and independent providers category because data for these providers is returned on the early years census.
+5. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+6. Local authority day nurseries are included in the private, voluntary and independent providers category because data for these providers is returned on the early years census.
+
+
+9 PVI providers with at least one accredited graduate staff member
+
+Filename: 9_early_years_provision_graduate_staff_pvis_2018_2024.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2018 to 2024
+Content summary: Number of private, voluntary, and independent providers delivering government-funded early years provision with at least one accredited graduate staff member, and number of children registered at these providers, by entitlement and provider type (national only).
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                 |  Variable description
+--------------------------------------------  |  -------------------------------------------------------------------------------------------------
+entitlement_type                              |  Type of entitlement
+number_children                               |  Number of registered children
+number_children_providers_graduate_staff      |  Number of registered children at providers with at least one accredited graduate staff member
+number_providers                              |  Number of providers
+number_providers_graduate_staff               |  Number of providers with at least one accredited graduate staff member
+percentage_children_providers_graduate_staff  |  Percentage of children registered at providers with at least one accredited graduate staff member
+percentage_providers_graduate_staff           |  Percentage of providers with at least one accredited graduate staff member
+pvi_provider_type                             |  Type of PVI provider - National level only
+
+Footnotes:
+
+1. Children who split their entitlement across more than one private, voluntary or independent provider are only counted at the provider where they spend the majority of their time.
+2. Since 2019, data cleaning exercises with local authorities each year have improved data quality. Provider types have become more accurately recorded over the years and caution should therefore be taken when comparing changes in provider types between years, particularly for childminders and state-funded governor run provision, which has been reclassified from other in some instances.
+3. State-funded governor-run provision is included in the private, voluntary and independent providers category because data for these providers is returned on the early years census.
+4. Data collected in 2021 (and to a lesser extent 2022) was affected by the impact of COVID-19 uncertainty on providers and parents. Further information is available in the methodology note.
+5. In some years, data for a small number of local authorities is of low reliability due to error. See methodology for more details.
+6. Local authority day nurseries are included in the private, voluntary and independent providers category because data for these providers is returned on the early years census.
+
+
+Commentary - Children registered by age and provider type
+
+Filename: figure_4_early_years_provision_2024.csv
+Geographic levels: National
+Time period: 2024
+Content summary: Number of children registered for government-funded early years provision by age and provider type. Underlying data for Figure 7 in the statistical commentary.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  -----------------------------
+age_entitlement  |  Age and type of entitlement
+number_children  |  Number of registered children
+provider_type    |  Type of provider
+
+Footnotes:
+
+1. Children who split their entitlement across more than one private, voluntary or independent provider are only counted at the provider where they spend the majority of their time.
+2. This chart does not include the small number of children attending a state-funded school who do not follow the national curriculum.
+3. Where children under 4 years of age are recorded as in reception, this may be because they attend a school with a two-year reception class or other mixed-year class, because the local authority has agreed it would be beneficial to start reception year early, or for another reason.
+4. A very small number of children under 5 years of age are registered in a higher year group than reception. This may be because the local authority has agreed it would be beneficial to the child, or for another reason. These children have been included in the reception category.
