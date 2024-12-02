@@ -1,43 +1,36 @@
 ﻿time_period,time_identifier,geographic_level,country_code,country_name,entitlement_type,age,number_children,number_eligible_children,percentage_eligible_children,number_providers
 2024,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,115900,155000,75,20600
-2024,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1169500,1231900,95,45900
-2024,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,361800,z,z,35100
+2024,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,169,500","1,231,900",95,"45,900"
 2023,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,124200,168000,74,21000
-2023,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1196000,1276100,94,46200
-2023,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,363000,z,z,35300
+2023,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,196,000","1,276,100",94,"46,200"
 2022,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,135400,188300,72,22100
-2022,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1212200,1314000,92,47100
-2022,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,348100,z,z,35800
+2022,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,212,200","1,314,000",92,"47,100"
 2021,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,124500,201600,62,21900
-2021,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1212000,1351100,90,48300
-2021,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,328700,z,z,35900
+2021,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,212,000","1,351,100",90,"48,300"
 2020,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,143400,207400,69,22500
-2020,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1271500,1368300,93,48500
-2020,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,345700,z,z,36900
+2020,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,271,500","1,368,300",93,"48,500"
 2019,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,148800,219300,68,22600
-2019,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1277100,1367300,93,48100
-2019,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,328100,z,z,35800
+2019,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,277,100","1,367,300",93,"48,100"
 2018,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,155000,215900,72,22700
-2018,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1284600,1367500,94,47700
-2018,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,296900,z,z,34300
+2018,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,284,600","1,367,500",94,"47,700"
 2017,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,163200,230900,71,22600
-2017,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1317700,1400600,94,45500
-2017,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2017,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,317,700","1,400,600",94,"45,500"
 2016,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,166900,246100,68,22300
-2016,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1339400,1417000,95,45100
-2016,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2016,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,339,400","1,417,000",95,"45,100"
 2015,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,157000,269800,58,20800
-2015,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1321900,1392900,95,43800
-2015,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2015,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,321,900","1,392,900",95,"43,800"
 2014,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,z,z,z,z
-2014,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1299900,1363800,95,39300
-2014,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2014,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,299,900","1,363,800",95,"39,300"
 2013,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,z,z,z,z
-2013,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1283500,1345500,95,37400
-2013,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2013,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,283,500","1,345,500",95,"37,400"
 2012,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,z,z,z,z
-2012,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1264400,1329600,95,36900
-2012,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2012,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,264,400","1,329,600",95,"36,900"
 2011,Reporting year,National,E92000001,England,15-hour entitlement,2-year-olds,z,z,z,z
-2011,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,1224500,1298600,94,36800
-2011,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,z,z,z,z
+2011,Reporting year,National,E92000001,England,15-hour entitlement,3 and 4-year-olds,"1,224,500","1,298,600",94,"36,800"
+2024,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"361,800",z,z,"35,100"
+2023,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"363,000",z,z,"35,300"
+2022,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"348,100",z,z,"35,800"
+2021,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"328,700",z,z,"35,900"
+2020,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"345,700",z,z,"36,900"
+2019,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"328,100",z,z,"35,800"
+2018,Reporting year,National,E92000001,England,30-hour entitlement,3 and 4-year-olds,"296,900",z,z,"34,300"
