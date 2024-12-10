@@ -1,0 +1,613 @@
+time_period,time_identifier,geographic_level,country_code,country_name,entitlement_type,pvi_provider_type_group,pvi_provider_type,age,number_providers
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,31020
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,18733
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,28452
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,21637
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,29566
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,17446
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,14226
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,17248
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,16378
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,17299
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,17142
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,14021
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,16976
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16164
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,17014
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,173
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,148
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,168
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,162
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,168
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,131
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,57
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,104
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,52
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,117
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,276
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,222
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,259
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,237
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,262
+2024,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,Total,812
+2024,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,2-year-olds,314
+2024,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,779
+2024,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,743
+2024,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,784
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,53
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,40
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,49
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,50
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,52
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,807
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,123
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,730
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,792
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,805
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,11626
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,3808
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,9387
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3437
+2024,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,10364
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,28519
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,26974
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,19457
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,28519
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,16485
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16232
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14488
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,16485
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,16213
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,15980
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,14293
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,16213
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,151
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,150
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,137
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,151
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,121
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,102
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,58
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,121
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,223
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,219
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,194
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,223
+2024,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,Total,740
+2024,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,729
+2024,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,659
+2024,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,740
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,53
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,51
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,43
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,53
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,443
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,381
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,403
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,443
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,10575
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,9362
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,3670
+2024,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,10575
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,31478
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,19159
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,28726
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,22047
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,29925
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,17821
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,14615
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,17621
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,16712
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,17676
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,17475
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,14401
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,17311
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16483
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,17349
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,183
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,148
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,178
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,167
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,178
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,163
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,66
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,132
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,62
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,149
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,291
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,223
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,275
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,250
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,275
+2023,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,Total,882
+2023,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,2-year-olds,355
+2023,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,836
+2023,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,799
+2023,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,843
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,28
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,20
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,27
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,23
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,27
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,817
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,130
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,735
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,810
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,815
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,11639
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,3816
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,9232
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3453
+2023,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,10289
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,28984
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,27343
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,19793
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,28984
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,16728
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16488
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14632
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,16728
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,16388
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,16174
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,14402
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,16388
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,168
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,165
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,149
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,168
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,172
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,149
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,81
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,172
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,229
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,227
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,203
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,229
+2023,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,Total,794
+2023,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,784
+2023,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,694
+2023,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,794
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,24
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,24
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,21
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,24
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,443
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,383
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,396
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,443
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,10766
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,9437
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,3847
+2023,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,10766
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,32605
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,20239
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,29624
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,22684
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,30911
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,18403
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,15274
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,18175
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,17172
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,18245
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,17841
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,14933
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,17691
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16812
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,17724
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,260
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,222
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,253
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,246
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,255
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,302
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,119
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,231
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,114
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,266
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,229
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,194
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,214
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,192
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,214
+2022,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,Total,938
+2022,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,2-year-olds,399
+2022,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,897
+2022,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,869
+2022,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,903
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,90
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,74
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,85
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,79
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,86
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,806
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,118
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,723
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,799
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,805
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,12139
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,4180
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,9530
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3573
+2022,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,10658
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,29918
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,28069
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,20152
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,29918
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,17125
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16801
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14758
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,17125
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,16585
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,16302
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,14409
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,16585
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,236
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,235
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,206
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,236
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,304
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,264
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,143
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,304
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,178
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,175
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,154
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,178
+2022,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,Total,841
+2022,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,821
+2022,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,748
+2022,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,841
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,77
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,76
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,65
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,77
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,417
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,362
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,378
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,417
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,11280
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,9834
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,4049
+2022,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,11280
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,33745
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,20180
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,30540
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,23130
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,32050
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,18543
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,15078
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,18316
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,17204
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,18392
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,17148
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,14205
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,17004
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16100
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,17034
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,308
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,250
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,300
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,281
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,302
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,1087
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,623
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,1012
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,823
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,1056
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,182
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,168
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,170
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,149
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,171
+2021,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,Total,876
+2021,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,2-year-olds,385
+2021,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,831
+2021,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,788
+2021,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,836
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,288
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,186
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,261
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,191
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,270
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,809
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,118
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,727
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,801
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,807
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,13047
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,4245
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,10235
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3997
+2021,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,11574
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,30319
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,28167
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,20157
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,30319
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,16931
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16589
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14478
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,16931
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,15679
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,15400
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,13532
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,15679
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,265
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,257
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,222
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,265
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,987
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,932
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,724
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,987
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,137
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,135
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,111
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,137
+2021,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,Total,762
+2021,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,744
+2021,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,662
+2021,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,762
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,256
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,238
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,180
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,256
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,394
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,336
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,364
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,394
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,11839
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,10125
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,4362
+2021,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,11839
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,34513
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,20838
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,31155
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,23280
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,32609
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,18667
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,15375
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,18425
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,17254
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,18502
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,17293
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,14464
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,17139
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16182
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,17174
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,310
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,254
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,304
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,276
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,305
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,1064
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,657
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,982
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,796
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,1023
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,318
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,259
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,287
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,256
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,288
+2020,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,Total,402
+2020,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,2-year-olds,215
+2020,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,381
+2020,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,356
+2020,Reporting year,National,E92000001,England,15-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,382
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,858
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,468
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,813
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,759
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,821
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,808
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,118
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,737
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,796
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,807
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,13460
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,4403
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,10512
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3859
+2020,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,11809
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,31796
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,29598
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,21022
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,31796
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,17176
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16857
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14745
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,17176
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,15907
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,15644
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,13827
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,15907
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,273
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,266
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,215
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,273
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,996
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,947
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,703
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,996
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,250
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,238
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,204
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,250
+2020,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,Total,354
+2020,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3-year-olds,347
+2020,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,4-year-olds,300
+2020,Reporting year,National,E92000001,England,30-hour entitlement,State-funded governor-run,State-funded governor-run,3 and 4-year-olds,354
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,741
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,701
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,635
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,741
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,391
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,337
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,354
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,391
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,12884
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,11118
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,4784
+2020,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,12884
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,34229
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,21082
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,30757
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,23148
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,32194
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,19114
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,15741
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,18829
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,17602
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,18914
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,18229
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,15185
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,18052
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16993
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,18084
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,330
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,262
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,323
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,303
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,323
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,553
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,292
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,452
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,305
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,505
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,450
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,347
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,406
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,369
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,407
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,832
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,420
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,775
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,691
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,783
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,832
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,127
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,753
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,813
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,830
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,13001
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,4447
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,9994
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3673
+2019,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,11260
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,31233
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,29010
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,20659
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,31233
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,17221
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16857
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14658
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,17221
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,16416
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,16112
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,14125
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,16416
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,281
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,274
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,236
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,281
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,522
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,469
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,296
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,522
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,366
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,352
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,318
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,366
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,699
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,676
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,577
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,699
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,385
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,319
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,344
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,385
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,12562
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,10806
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,4762
+2019,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,12562
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,Total,33889
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,2-year-olds,21227
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3-year-olds,30584
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,4-year-olds,22721
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Total,Total,3 and 4-year-olds,31807
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,Total,19142
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,2-year-olds,15761
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3-year-olds,18853
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,4-year-olds,17465
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,18927
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,18211
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,2-year-olds,15150
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,18020
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,16843
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,18054
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,401
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,2-year-olds,339
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,385
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,355
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,386
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,522
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,2-year-olds,265
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,440
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,263
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,479
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,422
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,2-year-olds,342
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,382
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,336
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,382
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,Total,1204
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,2-year-olds,700
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3-year-olds,1126
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,4-year-olds,979
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Other,Other,3 and 4-year-olds,1137
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,Total,813
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,2-year-olds,125
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3-year-olds,732
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,4-year-olds,798
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,810
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,Total,12308
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,2-year-olds,4299
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3-year-olds,9491
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,4-year-olds,3143
+2018,Reporting year,National,E92000001,England,15-hour entitlement,Childminders,Childminders,3 and 4-year-olds,10551
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,Total,30236
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3-year-olds,28246
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,4-year-olds,19426
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Total,Total,3 and 4-year-olds,30236
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,Total,16869
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3-year-olds,16501
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,4-year-olds,14046
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Total,3 and 4-year-olds,16869
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,Total,16023
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3-year-olds,15712
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,4-year-olds,13485
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Early years childcare providers,3 and 4-year-olds,16023
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,Total,334
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3-year-olds,322
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,4-year-olds,278
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Sure start children's centres,3 and 4-year-olds,334
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,Total,504
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3-year-olds,459
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,4-year-olds,278
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Private and voluntary providers,Other private or voluntary providers,3 and 4-year-olds,504
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,Total,311
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3-year-olds,307
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,4-year-olds,260
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Local authority day nurseries,Local authority day nurseries,3 and 4-year-olds,311
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,Total,976
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3-year-olds,937
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,4-year-olds,733
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Other,Other,3 and 4-year-olds,976
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,Total,339
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3-year-olds,290
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,4-year-olds,292
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Independent schools,Independent schools,3 and 4-year-olds,339
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,Total,11741
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3-year-olds,10211
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,4-year-olds,4095
+2018,Reporting year,National,E92000001,England,30-hour entitlement,Childminders,Childminders,3 and 4-year-olds,11741
